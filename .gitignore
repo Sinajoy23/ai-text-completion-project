@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Mac system files
+.DS_Store
+
+
+# API keys and secrets
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Gradio and Streamlit logs
+gradio_cached_examples/
+*.log
